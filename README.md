@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanielMacedoFisica
-- 👀 I’m interested in physics, mathematics and frontend develop.
-- 🌱 I’m currently learning HTML
+- 👀 I’m interested in physics, mathematics and development.
+- 🌱 I’m currently learning CCS and Javascript.
 - 💞️ I’m looking to collaborate on education, programming and scientific research.
 - 📫 How to reach me ...
 
