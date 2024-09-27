@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DanielMacedoFisica
-- 👀 I’m interested in physics, mathematics and development.
+- 👀 I’m interested in physics, mathematics technology and languages.
 - 🌱 I’m currently learning Arduino, physics and Deutch.
 - 💞️ I’m looking to collaborate on education, programming and scientific research.
 - 📫 How to reach me ...
